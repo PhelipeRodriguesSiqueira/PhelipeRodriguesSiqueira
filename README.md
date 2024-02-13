@@ -1,5 +1,5 @@
-# Olá, me chamo Phelipe Rodrigues ! 
-## Bem vindo ao meu perfil GitHub 👋
+# Hello Devs, me chamo Phelipe Rodrigues ! 
+## Bem vindos ao meu perfil GitHub 👋
 
 
 **PhelipeRodriguesSiqueira/PhelipeRodriguesSiqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
